@@ -1,2 +1,2 @@
 # Sample-Repo
-SAmple
+SAmple REpo for working in git 
